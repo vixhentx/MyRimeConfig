@@ -9,7 +9,8 @@ config_version: '2024-07-12'
 # 方案列表
 schema_list:
   # 可以直接删除或注释不需要的方案，对应的 *.schema.yaml 方案文件也可以直接删除
-  - schema: rime_frost_double_pinyin_gb             # 白霜拼音（国标）
+  - schema: rime_frost_double_pinyin_gb             # 白霜拼音
+  - schema: rime_ice_double_pinyin_gb               # 雾凇拼音
 
 
 # 菜单
