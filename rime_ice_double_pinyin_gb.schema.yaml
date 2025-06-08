@@ -15,7 +15,7 @@
 
 # 方案说明
 schema:
-  schema_id: rime_ice_double_pinyin_gb.schema
+  schema_id: rime_ice_double_pinyin_gb
   name: 雾凇双拼
   version: "1"
   author:
